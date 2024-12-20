@@ -1,0 +1,95 @@
+*{
+    background-color: black;
+    color: white;
+    padding-bottom:0;
+    margin: 0;
+}
+.head{
+    background-color: black;
+    color: white;
+    padding: 20px;
+} 
+li{
+    display: inline;
+    color: gray;
+    cursor: pointer;
+    margin-top: 30px;
+}
+input{
+    padding: 10px;
+    width: 40%;
+}
+.search{
+    padding: 20px;
+    text-align: center;
+}
+.options{
+    margin: 30px;
+    text-align: center;
+}
+.indian{
+    border: 7px;
+    border-color: white;
+    border-style: solid;
+    display: inline-block;
+    margin: 30px;
+    cursor: pointer;
+
+}
+.italian{
+    border: 7px;
+    border-color: white;
+    border-style: solid;
+    display: inline-block;
+    margin: 30px;
+    cursor: pointer;
+}
+.japanese{
+    border: 7px;
+    border-color: white;
+    border-style: solid;
+    display: inline-block;
+    margin: 30px;
+    cursor: pointer;
+}
+.french{
+    border: 7px;
+    border-color: white;
+    border-style: solid;
+    display: inline-block;
+    margin: 30px;
+    cursor: pointer;
+}
+.thanks{
+    margin: 30px;
+    text-align: center;
+padding-bottom: 20px;
+}
+.b{
+    padding-top: 20px;
+}
+.About{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.c{
+    padding-top: 20px;
+    color: grey;
+}
+.d{
+    padding-top: 30px;
+    color: grey;
+}
+.conduct{
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+.e{
+    color: gray;
+    text-align: center;
+    padding: 20px;
+}
+
+

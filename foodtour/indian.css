@@ -1,0 +1,92 @@
+*{
+    background-color: black;
+    color: white;
+}
+.head{
+    background-color: black;
+    color: white;
+    padding: 20px;
+} 
+li{
+    display: inline;
+    color: gray;
+    cursor: pointer;
+    margin-top: 30px;
+}
+.Indian{
+    text-align: center;
+
+}
+.idle{
+    border: 7px;
+    border-style: solid;
+    border-color: white;
+    margin: 20px;
+    display: inline-block;
+}
+.dosa{
+    border: 7px;
+    border-style: solid;
+    border-color: white;
+    margin: 20px;
+    display: inline-block;
+}
+.puri{
+    border: 7px;
+    border-style: solid;
+    border-color: white;
+    margin: 20px;
+    display: inline-block;
+}
+.vada{
+    border: 7px;
+    border-style: solid;
+    border-color: white;
+    margin: 20px;
+    display: inline-block;
+}
+.pongal{
+    border: 7px;
+    border-style: solid;
+    border-color: white;
+    margin: 20px;
+    display: inline-block;
+}
+.fullmeals{
+    border: 7px;
+    border-style: solid;
+    border-color: white;
+    margin: 20px;
+    display: inline-block;
+}
+.tali{
+    border: 7px;
+    border-style: solid;
+    border-color: white;
+    margin: 20px;
+    display: inline-block;
+}
+button{
+    background-color: white;
+    color: black;
+    display: inline;
+    cursor: pointer;
+}
+button:hover{
+    background-color: green;
+    color: white;
+}
+.thanks{
+    display: inline-block;
+    margin-left: 43.6%;
+    padding: 20px;
+    border: 2px;
+    border-color: white;
+    border-style: solid; 
+}
+.copy{
+    color: gray;
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 10px;
+}

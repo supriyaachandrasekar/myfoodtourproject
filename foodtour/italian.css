@@ -1,0 +1,85 @@
+*{
+    background-color: black;
+    color: white;
+}
+.head{
+    background-color: black;
+    color: white;
+    padding: 20px;
+} 
+li{
+    display: inline;
+    color: gray;
+    cursor: pointer;
+    margin-top: 30px;
+}
+.italian{
+    text-align: center;
+
+}
+.spa{
+    border: 7px;
+    border-style: solid;
+    border-color: white;
+    margin: 20px;
+    display: inline-block;
+}
+.cannoli{
+    border: 7px;
+    border-style: solid;
+    border-color: white;
+    margin: 20px;
+    display: inline-block;
+}
+.las{
+    border: 7px;
+    border-style: solid;
+    border-color: white;
+    margin: 20px;
+    display: inline-block;
+}
+.fio{
+    border: 7px;
+    border-style: solid;
+    border-color: white;
+    margin: 20px;
+    display: inline-block;
+}
+.tru{
+    border: 7px;
+    border-style: solid;
+    border-color: white;
+    margin: 20px;
+    display: inline-block;
+}
+.tir{
+    border: 7px;
+    border-style: solid;
+    border-color: white;
+    margin: 20px;
+    display: inline-block;
+}
+button{
+    background-color: white;
+    color: black;
+    display: inline;
+    cursor: pointer;
+}
+button:hover{
+    background-color: green;
+    color: white;
+}
+.thanks{
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    border: 2px;
+    border-color: white;
+    border-style: solid;  
+}
+.copy{
+    color: gray;
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 10px;
+}
